@@ -1,4 +1,4 @@
-# 📚 SQL-Studies
+# 📚 SQL & Banco de Dados - Estudos Práticos
 
 **Autor:**  José Carlos da silva júnior
 **Professor:** Álvaro George Rosas de Albuquerque Júnior 
@@ -28,13 +28,11 @@ Este repositório tem como objetivo centralizar e organizar conteúdos de estudo
 - **🎓 Fundamentos Teóricos**  
   Princípios da arquitetura de bancos de dados relacionais e conceitos fundamentais.
 
-## 🎯 Objetivo
-
-Oferecer uma **base sólida e prática** para quem deseja aprender ou se aprofundar em SQL e banco de dados relacional, com foco em:
-
-- Aplicação prática e resolução de problemas com SQL.
-- Desenvolvimento de projetos reais com modelagem e implementação de bancos.
-- Compreensão dos conceitos teóricos que sustentam a prática.
+## 🎯 Objetivos
+- ✔️ Aprender SQL de forma prática, com exemplos reais e projetos completos
+- ✔️ Entender modelagem de dados e arquitetura de bancos relacionais
+- ✔️ Dominar otimização de consultas, transações e procedimentos armazenados
+- ✔️ Criar um portfólio de estudos em Banco de Dados
 
 ## 🗂️ Estrutura do Repositório
 
@@ -50,24 +48,19 @@ Oferecer uma **base sólida e prática** para quem deseja aprender ou se aprofun
 - **/otimizacao**  
   Dicas e técnicas para otimização de performance em consultas SQL.
 
-## 🚀 Como Contribuir
-
-1. Faça um fork deste repositório.
-2. Crie uma nova branch para sua contribuição:  
-   `git checkout -b feature/nome-da-sua-feature`
-3. Realize suas alterações.
-4. Envie um *pull request* para análise.
-5. Siga as diretrizes de código e documentação adotadas neste projeto.
+## 🤝 Como Contribuir
+Faça um fork do projeto
+Crie uma branch: git checkout -b minha-contribuicao
+Commit suas mudanças: git commit -m 'Adicionei exemplos de VIEW'
+Push para a branch: git push origin minha-contribuicao
+Abra um Pull Request
 
 ## 📜 Licença
 
 Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
 
 ## 🙏 Agradecimentos
-
-Agradeço ao professor **Álvaro George** pela orientação técnica e incentivo constante durante essa jornada de aprendizado em bancos de dados.
-
----
+Agradeço ao professor [Nome do Professor] pelas valiosas orientações e à comunidade de banco de dados pelo conhecimento compartilhado.
 
 🔗 **Links Úteis**  
 - [W3Schools - SQL](https://www.w3schools.com/sql/)  
