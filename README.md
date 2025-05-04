@@ -93,7 +93,7 @@ SQL-Studies/
 
 ## 🙏 Agradecimentos
 
-Agradecimento especial ao professor [Nome do Professor] pela orientação e à comunidade de banco de dados pelo conhecimento compartilhado.
+Agradecimento especial ao professor Álvaro George Rosas de Albuquerque Júnior pela orientação e à comunidade de banco de dados pelo conhecimento compartilhado.
 
 >"Dados são a nova matéria-prima do século XXI" — Tim Berners-Lee
 
@@ -102,3 +102,7 @@ Agradecimento especial ao professor [Nome do Professor] pela orientação e à c
 ## 👨‍💻 Author
 
 Criado por [Carlos](https://github.com/carlos0ff) – sinta-se à vontade para entrar em contato!
+
+--- 
+
+<p align="center"> Desenvolvido com ❤️ por <a href="https://github.com/carlos0ff">José Carlos</a> </p>
