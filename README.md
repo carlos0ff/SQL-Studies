@@ -99,6 +99,11 @@ Agradecimento especial ao professor Álvaro George Rosas de Albuquerque Júnior 
 
 ---
 
+## 📄 Licença
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
+---
+
 ## 👨‍💻 Author
 
 Criado por [Carlos](https://github.com/carlos0ff) – sinta-se à vontade para entrar em contato!
