@@ -1,7 +1,7 @@
 # 📚 SQL-Studies
 
-**Autor:** Álvaro George Rosas de Albuquerque Júnior  
-**Professor:** [Nome do Professor, se aplicável]  
+**Autor:**  José Carlos da silva júnior
+**Professor:** Álvaro George Rosas de Albuquerque Júnior 
 
 Este repositório tem como objetivo centralizar e organizar conteúdos de estudo sobre **bancos de dados relacionais**, com ênfase em **SQL**. Aqui você encontrará exemplos práticos, exercícios e projetos que reforçam tanto o aprendizado técnico quanto os fundamentos teóricos sobre bancos de dados.
 
