@@ -1,88 +1,21 @@
-# 📚 Estudos de SQL e Banco de Dados
+<h1 align="center">📚 Estudos de SQL e Banco de Dados </h1>
 
-- 👨‍💻 **Autor:** Álvaro George Rosas de Albuquerque Júnior
-- 👨‍🏫 **Orientação:** [Nome do Professor]
-
-> Repositório dedicado ao aprendizado e prática de SQL e Bancos de Dados Relacionais, com exemplos práticos, projetos completos e conteúdo teórico para dominar desde conceitos básicos até técnicas avançadas.
-
-## 📑 Conteúdo
-
-- **🔍 Introdução ao SQL**  
-  Conceitos fundamentais sobre bancos de dados relacionais e a linguagem SQL.
-
-- **💻 Consultas SQL**  
-  Exemplos práticos com comandos como `SELECT`, `JOIN`, `WHERE`, `GROUP BY`, entre outros.
-
-- **🗂️ Modelagem de Dados**  
-  Criação de tabelas, definição de relacionamentos e normalização.
-
-- **⚙️ Procedimentos Armazenados**  
-  Uso de funções, procedures e triggers para automação de tarefas no banco de dados.
-
-- **🔄 Transações**  
-  Controle de transações com `COMMIT`, `ROLLBACK` e práticas de consistência de dados.
-
-- **⚡ Otimização de Consultas**  
-  Técnicas para melhorar o desempenho e a eficiência das consultas SQL.
-
-- **🎓 Fundamentos Teóricos**  
-  Princípios da arquitetura de bancos de dados relacionais e conceitos fundamentais.
-
-## 🎯 Objetivos
-- ✔️ Aprender SQL de forma prática, com exemplos reais e projetos completos
-- ✔️ Entender modelagem de dados e arquitetura de bancos relacionais
-- ✔️ Dominar otimização de consultas, transações e procedimentos armazenados
-- ✔️ Criar um portfólio de estudos em Banco de Dados
-
-## 🗂️ Estrutura do Repositório
-
-- **/exemplos**  
-  Scripts e consultas SQL ilustrando diferentes cenários de uso.
-
-- **/projetos**  
-  Projetos completos aplicando conceitos de modelagem e manipulação de dados.
-
-- **/documentação**  
-  Arquivos explicativos e materiais de apoio sobre teoria e boas práticas.
-
-- **/otimizacao**  
-  Dicas e técnicas para otimização de performance em consultas SQL.
-
-## 🤝 Como Contribuir
-Faça um fork do projeto
-Crie uma branch: git checkout -b minha-contribuicao
-Commit suas mudanças: git commit -m 'Adicionei exemplos de VIEW'
-Push para a branch: git push origin minha-contribuicao
-Abra um Pull Request
-
-## 📜 Licença
-
-Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
-
-## 🙏 Agradecimentos
-Agradeço ao professor [Nome do Professor] pelas valiosas orientações e à comunidade de banco de dados pelo conhecimento compartilhado.
-=======
 <div align="center">
-  <img src="https://img.shields.io/github/stars/carlos0ff/SQL-Studies?style=for-the-badge&color=yellow" alt="Stars">
+  <img src="https://img.shields.io/github/stars/carlos0ff/java-learn?style=for-the-badge&color=yellow" alt="Stars">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=open-source-initiative" alt="License">
 </div>
 
----
->>>>>>> 408e4997cd2fbb19b055aadb441eef53f80b8dd2
+- 👨‍💻 **Autor:** José Carlos 
+- 👨‍🏫 **Orientação:** Álvaro George Rosas de Albuquerque Júnior
 
-## 🎯 Objetivos
-
-- ✔️ **Aprender SQL** de forma prática, com exemplos reais e projetos completos  
-- ✔️ **Entender modelagem de dados** e arquitetura de bancos relacionais  
-- ✔️ **Dominar otimização de consultas**, transações e procedimentos armazenados  
-- ✔️ Criar um **portfólio** de estudos em Banco de Dados para o futuro profissional  
+> Repositório dedicado ao aprendizado e prática de SQL e Bancos de Dados Relacionais, com exemplos práticos, projetos completos e conteúdo teórico para dominar desde conceitos básicos até técnicas avançadas.
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Estrutura do Repositório
 
 ```bash
 SQL-Studies/
@@ -99,6 +32,7 @@ SQL-Studies/
 │   ├── biblioteca/        # Sistema de gerenciamento de biblioteca
 │   ├── e_commerce/        # Sistema de banco de dados para e-commerce
 │   ├── estoque/           # Sistema de controle de inventário
+│   ├── locadora/           # Sistema de locação de veículos
 │   └── escolar/           # Sistema de gestão escolar
 │
 ├── documentacao/          # Documentação explicativa
@@ -113,8 +47,10 @@ SQL-Studies/
 │   └── planos_execucao/   # Análise de planos de execução
 │
 └── recursos/              # Materiais complementares
-    ├── referencia_sql.pdf # Guia rápido de comandos SQL
-    └── tutoriais.md       # Links para materiais de estudo
+│   ├── referencia_sql.pdf # Guia rápido de comandos SQL
+│   └── tutoriais.md       # Links para materiais de estudo
+└── README.md 
+└── LINCESE
 ```
 
 ---
@@ -155,15 +91,6 @@ SQL-Studies/
 
 ---
 
-## 🔥 Destaques do Repositório
-
-- ✅ **100+ exemplos** de consultas SQL comentadas  
-- ✅ **Projetos completos** com modelagem realista  
-- ✅ **Material de teoria** sobre normalização e ACID  
-- ✅ **Dicas de otimização** baseadas em casos reais  
-
----
-
 ## 🙏 Agradecimentos
 
 Agradecimento especial ao professor [Nome do Professor] pela orientação e à comunidade de banco de dados pelo conhecimento compartilhado.
@@ -174,4 +101,4 @@ Agradecimento especial ao professor [Nome do Professor] pela orientação e à c
 
 ## 👨‍💻 Author
 
-Criado por [José Carlos](https://github.com/carlos0ff) – sinta-se à vontade para entrar em contato!
+Criado por [Carlos](https://github.com/carlos0ff) – sinta-se à vontade para entrar em contato!
