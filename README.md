@@ -1,7 +1,7 @@
 <h1 align="center">📚 Estudos de SQL e Banco de Dados </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/carlos0ff/java-learn?style=for-the-badge&color=yellow" alt="Stars">
+  <img src="https://img.shields.io/github/stars/carlos0ff/SQL-Studies?style=for-the-badge&color=yellow" alt="Stars">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
