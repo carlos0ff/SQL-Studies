@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=open-source-initiative" alt="License">
 </div>
 
-> Repositório dedicado ao aprendizado e prática de SQL e Bancos de Dados Relacionais, com exemplos práticos, projetos completos e conteúdo teórico para dominar desde conceitos básicos até técnicas avançadas.
-
 ---
 
 <!-- ## 📂 Estrutura do Repositório
