@@ -8,14 +8,11 @@
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=open-source-initiative" alt="License">
 </div>
 
-- 👨‍💻 **Autor:** José Carlos 
-- 👨‍🏫 **Orientação:** Álvaro George Rosas de Albuquerque Júnior
-
 > Repositório dedicado ao aprendizado e prática de SQL e Bancos de Dados Relacionais, com exemplos práticos, projetos completos e conteúdo teórico para dominar desde conceitos básicos até técnicas avançadas.
 
 ---
 
-## 📂 Estrutura do Repositório
+<!-- ## 📂 Estrutura do Repositório
 
 ```bash
 SQL-Studies/
@@ -52,8 +49,7 @@ SQL-Studies/
 └── README.md 
 └── LINCESE
 ```
-
----
+-->
 
 ## 🚀 Como Usar Este Repositório
 
@@ -91,12 +87,12 @@ SQL-Studies/
 
 ---
 
-## 🙏 Agradecimentos
+<!-- ## 🙏 Agradecimentos
 
 Agradecimento especial ao professor Álvaro George Rosas de Albuquerque Júnior pela orientação e à comunidade de banco de dados pelo conhecimento compartilhado.
 
 >"Dados são a nova matéria-prima do século XXI" — Tim Berners-Lee
-
+-->
 ---
 
 ## 📄 Licença
